@@ -1,0 +1,23 @@
+html, body {
+    background-color: rgb(235, 235, 235);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.center {
+    background-color: white;
+    border: 3px solid white;
+    border-radius: 6px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+th {
+    cursor: pointer;
+}
+
+.btn-fix {
+    width: 160px;
+}
